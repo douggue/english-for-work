@@ -26,8 +26,8 @@ Needs analysis · task-based learning · chunks (phrases, not grammar) · listen
 - Spanish: neutral Latin American, **tú**.
 - Phonetic spelling for Spanish readers (e.g. *Watch out!* → **uách áut**, *Got it?* → **gárit**).
 - Safety phrases: checked against OSHA wording + approved by someone who did the job.
-- Content drafted by AI, **reviewed by people** (native US English, native Latin American Spanish, job-experienced reviewer), tested with 5–10 learners. Owner is recruiting reviewers.
-- Drafts written: Core Unit 1 (`content/core/unit-01-tu-primer-dia.md`), Core Unit 2 (`content/core/unit-02-puede-repetir.md`), Basics B1 numbers (`content/basics/b1-numeros.md`).
+- **Content is written and self-reviewed by Claude** (owner's decision). Human checks are limited to: (1) **safety phrases** in `content/SAFETY-REVIEW.md`, read by someone who has done the job before launch, and (2) a **beta with 10–20 real users** with an in-app "report a problem" button.
+- Drafts written: Core Unit 1 (`content/core/unit-01-tu-primer-dia.md`), Core Unit 2 (`content/core/unit-02-puede-repetir.md`), Basics B1 numbers (`content/basics/b1-numeros.md`), B2 time & days (`content/basics/b2-horas-y-dias.md`).
 
 ## 5. Features in the first version
 | Feature | Free | Pro |
@@ -67,5 +67,5 @@ Job picker · Home · Lesson · Interview · Results · Subscription · Listen &
 - App name: **WorkVoz** (Play Store title: "WorkVoz: Inglés para trabajar"). Web search found no product with this name; still check the .com domain and USPTO before registering.
 - Yearly price.
 - Run the AI model test; pick a speech-to-text provider.
-- Get reviewer feedback on Core 1–2 and B1, then write the rest: Basics B2–B8, Core 3–8, job packs and tools lists.
+- Write the rest: Basics B3–B8, Core 3–8, job packs and tools lists; build the content checker script.
 - ~~Save the project to GitHub~~ → github.com/douggue/english-for-work
