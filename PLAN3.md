@@ -9,10 +9,11 @@
 An Android app (iOS later) that teaches Spanish speakers in the US the English of **their job**, with free lessons and paid AI practice. Portuguese comes second.
 
 ## 2. Structure
+- **Lo básico** (free, offline, no AI): 8 short units — numbers, time & days, money, dates & forms (US month-first dates), alphabet, US measurements (lbs, feet, °F), directions/colors/sizes, 20 key work verbs. A quick check at the start lets learners skip it. See `content/basics/README.md`.
 - **Core** (all jobs): 8 units — first day, "can you repeat?", schedule, basic safety, asking for help, injuries & emergencies, talking with your supervisor, getting the job (interview).
 - **7 job packs** (4 units each to start): Warehouse · Restaurant/Kitchen · Construction · Cleaning · Landscaping · Security guard · Store associate.
 - Every pack has a **Tools unit** and ends with a **"Moving up"** unit (lead, promotion, raise, certifications).
-- Total at launch: **36 units ≈ 180 lessons**.
+- Total at launch: **44 units** (8 basics + 8 Core + 28 job-pack units) ≈ 205 lessons.
 - Out of scope for now: Home health aide, Haitian Creole.
 
 ## 3. Teaching method
@@ -26,12 +27,12 @@ Needs analysis · task-based learning · chunks (phrases, not grammar) · listen
 - Phonetic spelling for Spanish readers (e.g. *Watch out!* → **uách áut**, *Got it?* → **gárit**).
 - Safety phrases: checked against OSHA wording + approved by someone who did the job.
 - Content drafted by AI, **reviewed by people** (native US English, native Latin American Spanish, job-experienced reviewer), tested with 5–10 learners. Owner is recruiting reviewers.
-- Model unit written: `content/core/unit-01-tu-primer-dia.md`.
+- Drafts written: Core Unit 1 (`content/core/unit-01-tu-primer-dia.md`), Core Unit 2 (`content/core/unit-02-puede-repetir.md`), Basics B1 numbers (`content/basics/b1-numeros.md`).
 
 ## 5. Features in the first version
 | Feature | Free | Pro |
 |---|---|---|
-| All Core + all 7 job packs (lessons) | ✅ | ✅ |
+| Lo básico + all Core + all 7 job packs (lessons) | ✅ | ✅ |
 | Daily review (spaced repetition), offline | ✅ | ✅ |
 | Tools picture dictionary per job | ✅ | ✅ |
 | AI practice interview (by job) | 1 try | ✅ |
@@ -66,5 +67,5 @@ Job picker · Home · Lesson · Interview · Results · Subscription · Listen &
 - App name: **WorkVoz** (Play Store title: "WorkVoz: Inglés para trabajar"). Web search found no product with this name; still check the .com domain and USPTO before registering.
 - Yearly price.
 - Run the AI model test; pick a speech-to-text provider.
-- Write Core Units 2–8 (Unit 2 next), then job packs and tools lists.
+- Get reviewer feedback on Core 1–2 and B1, then write the rest: Basics B2–B8, Core 3–8, job packs and tools lists.
 - ~~Save the project to GitHub~~ → github.com/douggue/english-for-work

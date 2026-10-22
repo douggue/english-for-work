@@ -1,9 +1,11 @@
 # Core · Unit 2 — ¿Puede repetir? (Can you repeat that?)
 
-**Can-do:** *Puedo decir cuando no entiendo, pedir que repitan o me muestren, y confirmar números y nombres.*
+**Can-do:** *Puedo decir cuando no entiendo, pedir que repitan o me muestren, confirmar números y explicarme de otra forma cuando no me entienden.*
 **Level:** 0 (Starter) · **Free:** yes · **Status:** DRAFT — needs review (see `../style-guide.md` §6)
 
-Characters: **María** (learner) · **Mike** (supervisor) · **Jess** (coworker) · **Ms. Brown** (HR)
+Characters: **María** (learner) · **Mike** (supervisor) · **Jess** (coworker)
+
+> Before this unit: learners who need numbers and the alphabet do **Lo básico** B1 (numbers) and B5 (alphabet) first. Lesson 3 here is a work-focused review of confusable numbers.
 
 > Why this unit comes second: at the start, learners will not understand most of what they hear. These phrases let them keep the conversation going instead of saying "OK" and guessing. Guessing is the most common cause of mistakes at work.
 
@@ -137,86 +139,72 @@ Question: *¿A qué pasillo va María?* → **15** ✔ · 50 · 5
 
 ---
 
-## Lesson 4 — Deletrea tu nombre
+## Lesson 4 — Cuando no te entienden
 
 **1. Situation**
-> En recursos humanos (HR) te piden deletrear tu nombre. Las letras en inglés suenan diferente.
+> A veces eres tú quien no se hace entender. No pasa nada: hay frases para explicarlo de otra forma.
 
 **2. Listen first**
 | | English | Español |
 |---|---|---|
-| Ms. Brown | What's your last name? | ¿Cuál es tu apellido? |
-| María | López. | López. |
-| Ms. Brown | How do you spell that? | ¿Cómo se escribe? |
-| María | L - O - P - E - Z. | L - O - P - E - Z. |
-| Ms. Brown | Is that E or I? | ¿Es E o I? |
-| María | E. | E. |
+| María | I need the… the thing for the boxes. | Necesito el… la cosa para las cajas. |
+| Jess | Sorry, what do you need? | Perdón, ¿qué necesitas? |
+| María | Let me show you. *(points)* This. How do you say this in English? | Déjame mostrarte. Esto. ¿Cómo se dice esto en inglés? |
+| Jess | Oh, a tape gun! | ¡Ah, una pistola de cinta! |
+| María | Tape gun. Thank you! | Pistola de cinta. ¡Gracias! |
 
-Question: *¿Qué letra no entendió Ms. Brown?* → **La E** ✔ · La L · La Z
+Question: *¿Qué hizo María cuando Jess no entendió?* → **Le mostró la cosa** ✔ · Se fue · Habló en español
 
 **3. Key chunks**
 | English | Sounds like | Español | Safety |
 |---|---|---|---|
-| My last name is ___. | mai last néim is ___ | Mi apellido es ___. | – |
-| How do you spell that? | jáu du iu spel dat? | ¿Cómo se escribe? | – |
-| *(listen only)* Is that E or I? | is dat ii or ái? | ¿Es E o I? | – |
-| L - O - P - E - Z | el - óu - pii - ii - zii | (deletreo) | – |
-
-**Letters that confuse Spanish speakers**
-| Letter | Sounds like | Careful! |
-|---|---|---|
-| A | éi | not "a" |
-| E | ii | sounds like Spanish **I** |
-| I | ái | not "i" |
-| G | yii | |
-| J | yéi | |
-| H | éich | |
-| R | ar | |
-| Y | uái | |
-| W | dábel-iu | |
-| Z | zii | buzzing sound, like a bee: *zzz* |
+| Let me show you. | let mi shóu iu | Déjame mostrarte. | – |
+| How do you say this in English? | jáu du iu séi dis in ínglish? | ¿Cómo se dice esto en inglés? | – |
+| I mean… | ai miin… | Quiero decir… | – |
+| My English is not perfect. I'm learning. | mai ínglish is nat pérfect. áim lérning | Mi inglés no es perfecto. Estoy aprendiendo. | – |
+| *(listen only)* Sorry, what do you need? | sári, uát du iu niid? | Perdón, ¿qué necesitas? | – |
 
 **4. Tip**
-> Las letras **E** e **I** se cambian: en inglés **E = ii** y **I = ái**. Practica tu propio nombre y apellido hasta decirlos sin pensar. En HR te lo van a pedir muchas veces.
+> Si no sabes una palabra, **muestra, señala o describe**: *"the thing for the boxes"*. Después pregunta *"How do you say this in English?"* y así aprendes la palabra para siempre.
+> Decir *"I'm learning"* es positivo: muestra que te estás esforzando.
 
 **5. Practice**
-1. Escucha y elige: 🔊 *ii* → **E** ✔ · I · Y
-2. Escucha y elige: 🔊 *ái* → E · **I** ✔ · A
-3. Escucha y escribe: 🔊 *G - O - M - E - Z* → **GOMEZ**
-4. Escucha y escribe: 🔊 *R - I - V - E - R - A* → **RIVERA**
-5. **Your name:** type your first and last name → the app plays each letter, you repeat. *(Stays on the phone only; never sent or saved on the server.)*
+1. Escucha y elige: 🔊 *Let me show you.* → **Déjame mostrarte.** ✔ · Déjame ayudarte. · Déjame ver.
+2. Ordena: `say` `How` `you` `this` `do` `in English?` → **How do you say this in English?**
+3. Elige: Tu compañero no te entiende. ¿Qué dices? → **"Let me show you."** ✔ · "OK." · "Got it."
+4. Escucha y elige: 🔊 *I'm learning.* → **Estoy aprendiendo.** ✔ · Estoy trabajando. · Estoy esperando.
 
-**6. Shadow:** the trouble letters, then the learner's own name.
+**6. Shadow:** all chunks.
 
 **7. Mini task**
-> 🔊 *"How do you spell your last name?"*
-→ The learner spells their own last name out loud (speech check per letter).
+> Necesitas una escoba pero no sabes cómo se dice. Tu compañero no entiende tu explicación.
+→ **"Let me show you. How do you say this in English?"** ✔ · "Sorry, I don't understand." · "Nice to meet you."
 
 ---
 
 ## Unit task — AI role-play: *¿Puede repetir?*
 
 **Learner sees (es):**
-> Tu supervisor te da instrucciones rápidas. Si no entiendes, pide que repita o que te muestre. Confirma los números. Al final, deletrea tu apellido para HR.
+> Tu supervisor te da instrucciones rápidas. Si no entiendes, pide que repita o que te muestre. Confirma los números. Después, pídele algo a un compañero aunque no sepas la palabra en inglés.
 
 **Learner goals (checked by AI):**
 1. Asks to repeat **or** to speak slower at least once
 2. Confirms a number (e.g. *"Fifteen or fifty?"*, *"Aisle twelve?"*)
 3. Asks what a word means **or** asks to be shown
-4. Spells their last name correctly
+4. When the coworker doesn't understand, explains another way (*Let me show you*, *I mean…*, *How do you say this in English?*)
 
 **AI script (instructions for the AI):**
-- Role: first Mike (supervisor), then Ms. Brown (HR).
+- Role: first Mike (supervisor), then Jess (coworker).
 - Mike's first instruction is fast and natural, with one work word the learner may not know and one number from the confusable set (13/30, 14/40, 15/50, 16/60, 18/80). Max 12 words.
 - If the learner asks to repeat → repeat once at the same speed. If they ask for slower → say it slowly in simpler words.
 - If the learner just says "OK" without understanding, ask: *"OK, where are you going?"* to check — if the answer is wrong, give a hint in Spanish: *"Si no entiendes, pide que repita."*
-- Ms. Brown asks for the last name and spelling, and asks *"Is that E or I?"* once if the name contains E or I.
+- Jess: the app tells the learner (in Spanish) to ask Jess for an object whose English name is not taught yet (e.g. *escoba*, *cinta*). Jess first says *"Sorry, what do you need?"*; when the learner describes or uses *Let me show you*, Jess names the object.
 - Max 10 turns. Feedback in Spanish using *tú*: 2 things done well, max 2 fixes. Never mention grammar terms.
-- The learner's real name is used only inside this conversation and never stored. Never ask for other personal data.
+- Never ask for personal data.
 
 ---
 
 ## Reviewer notes
 - Lesson 1: "pull the reds from twelve" is realistic fast warehouse talk. Check that it sounds natural to someone with warehouse experience; replace it for the Core if it feels too warehouse-specific (the Core is for all jobs).
 - Lesson 3: check the phonetic lines *thér-ri* (thirty) and *fíf-ti* (fifty) against style guide §3; consider whether the hyphen is clear enough to readers.
-- Lesson 4: the trouble-letters table covers US letter names; check *Z = zii* (US), not *zed*.
+- Lesson 4 replaced: spelling/alphabet moved to `../basics/` (B5). New Lesson 4 = being understood (show, describe, ask for the word).
