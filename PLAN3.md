@@ -43,6 +43,7 @@ Needs analysis · task-based learning · chunks (phrases, not grammar) · listen
 | Big-companies section (hiring steps, practice) | steps only | ✅ |
 | **Phrase of the day**: daily notification (local, works offline) + one-tap share to WhatsApp as an image/short video | ✅ | ✅ |
 | **Invite a friend**: when the friend starts using the app, both get 1 week of Pro | ✅ | ✅ |
+| **Learn without opening the app**: home-screen widget (a word from the learner's review list + audio, changes every few hours) and optional lock-screen word notifications (1–3/day, off by default, never during the learner's shift hours). iPhone version later gets a true lock-screen widget. | ✅ | ✅ |
 
 - Pro: **$4.99/month** + yearly plan [price TBD], with a fair-use limit on AI sessions.
 - AI-generated content is labeled "Creada con IA"; the AI must never invent safety rules.
@@ -51,7 +52,7 @@ Needs analysis · task-based learning · chunks (phrases, not grammar) · listen
 
 **Growth notes:** WhatsApp sharing and invites are the main free marketing channel next to short videos. Referral rewards are granted through RevenueCat promotional access; limit rewards per account to prevent abuse.
 
-**Ideas for version 2** (discussed, not in v1): resume builder (*Mi currículum*, pending decision), quick-help speaking buttons, camera "¿Qué dice esto?" explainer, commute audio mode, live listening, know-your-rights section, progress certificate, **WorkVoz for companies** (staffing agencies/employers).
+**Ideas for version 2** (discussed, not in v1): resume builder (*Mi currículum*, pending decision), quick-help speaking buttons, camera "¿Qué dice esto?" explainer, commute audio mode, live listening, lock-screen wallpaper with the daily phrase, know-your-rights section, progress certificate, **WorkVoz for companies** (staffing agencies/employers).
 
 ## 6. Money target
 $4,000/month ≈ **950 Pro subscribers** (~$4.24 each after Google's 15%) → roughly 20k–45k active users at 2–5% conversion.
@@ -66,8 +67,8 @@ React Native + Expo (TypeScript) · SQLite on device · FSRS review · Supabase 
 - Owner is creating the LLC. Next: **D-U-N-S number** (slow, start early), business email + simple website with privacy policy, business bank account, Play Console ($25).
 
 ## 9. Mockup
-12 screens: https://claude.ai/artifact/5VsBL8vA1dxB7skj3K6VtC
-Job picker · Basics check · Home · Lesson · Interview · Results · Subscription · Listen & retell · Practice for this job · Tools · Mi trabajo · Phrase of the day + invite.
+14 screens: https://claude.ai/artifact/5VsBL8vA1dxB7skj3K6VtC
+Job picker · Basics check · Home · Lesson · Interview · Results · Subscription · Listen & retell · Practice for this job · Tools · Mi trabajo · Phrase of the day + invite · Lock screen · Widget & settings.
 
 ## 10. Open items
 - App name: **WorkVoz** (Play Store title: "WorkVoz: Inglés para trabajar"). Web search found no product with this name; still check the .com domain and USPTO before registering.
