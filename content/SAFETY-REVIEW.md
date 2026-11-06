@@ -2,6 +2,8 @@
 
 Every phrase flagged **safety** in any lesson is copied here. Before launch, **one person who has worked that job** reads this list and marks each line ✅ or ✏️ (with a correction). This is the only part of the content that must have a human check.
 
+**Healthcare pack exception:** the entire Healthcare pack (not just flagged phrases) is reviewed by a nurse or CNA before launch.
+
 **How to review:** for each phrase, ask: *Is this what people really say at work in this situation? Could anyone misunderstand it and get hurt?*
 
 | ID | Job | English | Español | Source / note | Reviewer | ✅ / ✏️ |

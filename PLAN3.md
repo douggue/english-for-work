@@ -11,10 +11,20 @@ An Android app (iOS later) that teaches Spanish speakers in the US the English o
 ## 2. Structure
 - **Lo básico** (free, offline, no AI): 8 short units — numbers, time & days, money, dates & forms (US month-first dates), alphabet, US measurements (lbs, feet, °F), directions/colors/sizes, 20 key work verbs. A quick check at the start lets learners skip it. See `content/basics/README.md`.
 - **Core** (all jobs): 8 units — first day, "can you repeat?", schedule, basic safety, asking for help, injuries & emergencies, talking with your supervisor, getting the job (interview).
-- **7 job packs** (4 units each to start): Warehouse · Restaurant/Kitchen · Construction · Cleaning · Landscaping · Security guard · Store associate.
+- **8 job packs**: Warehouse · Restaurant/Kitchen · Construction · Cleaning · Landscaping · Security guard · Store associate · **Healthcare (home health aide / caregiver + CNA)**.
+- Each pack is built from a **job map** (see §2b) and grows to ~30–50 situations (≈12–15 units).
 - Every pack has a **Tools unit** and ends with a **"Moving up"** unit (lead, promotion, raise, certifications).
-- Total at launch: **44 units** (8 basics + 8 Core + 28 job-pack units) ≈ 205 lessons.
-- Out of scope for now: Home health aide, Haitian Creole.
+- Size: 8 Basics + 8 Core units, plus the job packs (size set by each job map; roughly 100–120 units in total).
+- Out of scope for now: Haitian Creole; medical assistant / phlebotomist (need higher English).
+
+## 2b. Lesson engine (how we cover "everything about a job")
+**Job map** — every job is mapped across the same 10 communication areas: (1) getting the job, (2) first days, (3) tasks & tools, (4) instructions, (5) safety ⚠️, (6) problems & asking for help, (7) customers / the public, (8) coworkers, (9) supervisor & HR, (10) moving up. Each area is filled with real situations from O*NET task lists, real job postings, and what users type in *Mi trabajo*. The map shows coverage gaps, so completeness is measurable.
+
+**Content as data** — writers create building blocks, not finished lessons: situations, phrases (English · phonetic · Spanish · audio · tags: job, area, level, safety, frequency), short dialogues, tools/words. Phrases shared across jobs are written once and reused.
+
+**Engine** — assembles each lesson from the blocks using the 8-step lesson template and **generates the exercises automatically** (listen & pick, word tiles, gap fill, shadowing, mini task). Adapts per learner: placement check, FSRS review per phrase (safety phrases more often), extra practice on weak spots, AI role-play per situation, *Mi trabajo* fills gaps.
+
+**Healthcare pack rules** — focus on communicating and reporting (caring for the patient, body & health words, reporting changes to the nurse/family, fall prevention, hand hygiene, emergencies, patient privacy/HIPAA, talking with families). Never gives medical advice. Level A2 (starts after the Core). CNA exam content varies by state: teach vocabulary and situations, no exam-prep promise. **The whole pack is reviewed by a nurse or CNA**, not only the safety phrases.
 
 ## 3. Teaching method
 Needs analysis · task-based learning · chunks (phrases, not grammar) · listening first · Spanish explanations · spaced repetition (FSRS) · shadowing · intelligibility-focused pronunciation · CEFR A1–A2 can-do goals.
@@ -32,7 +42,7 @@ Needs analysis · task-based learning · chunks (phrases, not grammar) · listen
 ## 5. Features (one app — everything below ships together; new features come later as updates)
 | Feature | Free | Pro |
 |---|---|---|
-| Lo básico + all Core + all 7 job packs (lessons) | ✅ | ✅ |
+| Lo básico + all Core + all 8 job packs (lessons) | ✅ | ✅ |
 | Daily review (spaced repetition), offline | ✅ | ✅ |
 | Tools picture dictionary per job | ✅ | ✅ |
 | AI practice interview (by job) | 1 try | ✅ |
@@ -75,5 +85,6 @@ Job picker · Basics check · Home · Lesson · Interview · Results · Subscrip
 - App name: **WorkVoz** (Play Store title: "WorkVoz: Inglés para trabajar"). Web search found no product with this name; still check the .com domain and USPTO before registering.
 - Yearly price.
 - Run the AI model test; pick a speech-to-text provider.
-- Next: build the content checker script, then Core 3–8, then job packs and tools lists.
+- Next: Warehouse job map (example), content data format + checker, then Core 3–8, then job packs and tools lists.
+- Healthcare pack: find a nurse or CNA to review the whole pack before launch.
 - ~~Save the project to GitHub~~ → github.com/douggue/english-for-work
